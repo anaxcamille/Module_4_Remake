@@ -1,0 +1,40 @@
+*{
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	background-color: #034355;
+}
+label{
+	font-family: 'Staatliches', cursive;
+	font-size: 5vh;
+	color: white;
+	font-weight: bold;
+}
+input{
+	width:200px;
+	height:50px;
+}
+button{
+	background-color: #83af9b;
+	color:white;
+	font-family: 'Staatliches', cursive;
+	font-weight: bold;
+	font-size: 5vh;
+	border:none;
+	width: 30vh;
+	height: 50px;
+	margin-top: 5vh;
+	margin-left: 20vh;
+}
+section{
+	margin: 50vh 0px 0px 60vh;
+}
+p{
+	color:white;
+	font-family: 'Staatliches', cursive;
+	font-size: 5vh;
+	margin-top:5vh;
+	margin-left: 15vh;
+}
